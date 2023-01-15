@@ -55,9 +55,11 @@ https://www.atlassian.com/git/tutorials/syncing/git-push#:~:text=The%20git%20pus
 22. Create the Flask App - app.py
 23. Create the template folder and inside create home.html
 24. Write HTML coding for Home page
+25. To Run your application in VS Code
+	python app.py
 
-25. Inorder to test your api, please install Postman
-26. JSON Input to test your predict_api
+26. Inorder to test your api, please install Postman
+27. JSON Input to test your predict_api
 	{
 	"data": {
 		"CRIM": 0.00632,
@@ -76,7 +78,17 @@ https://www.atlassian.com/git/tutorials/syncing/git-push#:~:text=The%20git%20pus
 	}
 }
 
-27. Create the Procfile before you deploy it in Heroku. Procfile will send the command to execute when this app will start or used
+28. Create the Procfile before you deploy it in Heroku. Procfile will send the command to execute when this app will start or used
+
+29. To Create a Docker Container of the project
+
+	1. Create a Dockerfile
+	FROM 
+	COPY
+	WORKDIR
+	RUN
+	EXPOSE
+	CMD
 
 
 
