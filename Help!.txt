@@ -76,7 +76,7 @@ https://www.atlassian.com/git/tutorials/syncing/git-push#:~:text=The%20git%20pus
 	}
 }
 
-27. 
+27. Create the Procfile before you deploy it in Heroku. Procfile will send the command to execute when this app will start or used
 
 
 
