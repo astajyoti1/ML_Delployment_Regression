@@ -13,4 +13,5 @@
 
 conda create -p venv python==3.7 -y
 
-Astajyoti Behera
+### Activate the environment
+conda activate venv/
